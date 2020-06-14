@@ -6,6 +6,6 @@
   "author": "Samuel Schepp",
   "license": "ISC",
   "peerDependencies": {
-    "eslint": ">= 7"
+    "eslint": ">= 7.2"
   }
 }
