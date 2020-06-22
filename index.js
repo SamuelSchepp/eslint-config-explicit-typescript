@@ -1,4 +1,7 @@
 module.exports =  {
+  plugins: [
+    "@typescript-eslint"
+  ],
   rules: {
     // eslint
     'accessor-pairs': 'error',
