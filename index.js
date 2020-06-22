@@ -208,7 +208,7 @@ module.exports =  {
     'quote-props': ['off', 'consistent'],
     'radix': 'off',
     'require-atomic-updates': 'error',
-    'require-jsdoc': 'error',
+    'require-jsdoc': 'off',
     'require-unicode-regexp': 'error',
     'require-yield': 'error',
     'rest-spread-spacing': 'error',
