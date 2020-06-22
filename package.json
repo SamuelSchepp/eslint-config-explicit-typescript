@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-explicit-typescript",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "description": "A ruleset for an explicit code style.",
   "main": "index.js",
   "author": "Samuel Schepp",
